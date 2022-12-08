@@ -1,6 +1,2 @@
 # awesome-DA-ReID
-awesome-DA ReID
-
-这是Domain Adaptation ReID笔记本
-
- test input...
+This repo is a collection of AWESOME things about domain adaptation ReID, including papers, code, etc. Feel free to star and fork.
